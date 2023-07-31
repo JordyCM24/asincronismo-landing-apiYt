@@ -1,0 +1,12 @@
+{
+  "name": "asincronismo-landing-apiyt",
+  "version": "1.0.0",
+  "description": "Asincronismo usando la API de Youtube para ver los ultimos videos que subio un canal de Youtube.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
